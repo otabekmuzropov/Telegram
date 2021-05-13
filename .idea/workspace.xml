@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76c3e43a-b293-43d5-98d6-7f1c3082504e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../PersonI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RABBIT/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RABBIT/.idea/RABBIT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RABBIT/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RABBIT/.idea/dataSources/c7073d6f-6e04-4e9f-ae98-3386d4c725b6/storage_v2/_src_/database/postgres.edMnLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RABBIT/.idea/dataSources/c7073d6f-6e04-4e9f-ae98-3386d4c725b6/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RABBIT/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RABBIT/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RABBIT/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RABBIT/go_boilerplate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RabbitMQ/rmq1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RabbitMQ/rmq_RPC.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RabbitMQ/rmq_consumer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RabbitMQ/rmq_pushlished.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RabbitMQ/work_queues.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaskListConsumerRMQ/cmd/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaskListConsumerRMQ/event/rmq.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaskListConsumerRMQ/task/task.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaskListRabbitMQ/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaskListRabbitMQ/.idea/TaskListRabbitMQ.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaskListRabbitMQ/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaskListRabbitMQ/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaskListRabbitMQ/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaskListRabbitMQ/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaskListRabbitMQ/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaskListRabbitMQ/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaskListRabbitMQ/cmd/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaskListRabbitMQ/event/rmq.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaskListRabbitMQ/migrations/tables_1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaskListRabbitMQ/migrations/tables_2.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TaskListRabbitMQ/task/task.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TasklistConsumer/event/consumer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TasklistConsumer/event/event.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TasklistConsumer/event/publisher.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TasklistConsumer/logger/const.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TasklistConsumer/logger/logger.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TasklistConsumer/logger/util.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TasklistConsumer/logger/zap.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TasklistConsumer/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmd/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/event/consumer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/event/event.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/event/publisher.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/app.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/listener.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order/model.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order/order.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mb_admin_api_gateway" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mb_client_api_gateway" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmq/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmq/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmq/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmq/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmq/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmq/.idea/rmq.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmq/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmq/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmq/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmq/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmq/pkg/event/consumer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmq/pkg/event/event.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmq/pkg/event/publisher.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmq/pkg/logger/const.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmq/pkg/logger/logger.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmq/pkg/logger/util.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmq/pkg/logger/zap.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Message" beforeDir="false" afterPath="$PROJECT_DIR$/../Message" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api_gateway" beforeDir="false" afterPath="$PROJECT_DIR$/../api_gateway" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject2/.idea/awesomeProject2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject2/Person-I" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject2/cmd/interface.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../awesomeProject2/cmd/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contact/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../contact/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contact/.idea/contact.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../contact/.idea/contact.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contact/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../contact/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contact/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../contact/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contact/cmd/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../contact/cmd/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contact/config/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/../contact/config/config.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contact/genproto/phone/phone.pb.go" beforeDir="false" afterPath="$PROJECT_DIR$/../contact/genproto/phone/phone.pb.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contact/genproto/phone/phone_service.pb.go" beforeDir="false" afterPath="$PROJECT_DIR$/../contact/genproto/phone/phone_service.pb.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contact/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/../contact/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contact/migrations/create_tables_1.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../contact/migrations/create_tables_1.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contact/migrations/down_1.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../contact/migrations/down_1.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contact/protos/phone/phone.proto" beforeDir="false" afterPath="$PROJECT_DIR$/../contact/protos/phone/phone.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contact/protos/phone/phone_service.proto" beforeDir="false" afterPath="$PROJECT_DIR$/../contact/protos/phone/phone_service.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contact/storage/postgres/post.go" beforeDir="false" afterPath="$PROJECT_DIR$/../contact/storage/postgres/post.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contact/storage/repo/phone.go" beforeDir="false" afterPath="$PROJECT_DIR$/../contact/storage/repo/phone.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go_machinery" beforeDir="false" afterPath="$PROJECT_DIR$/../go_machinery" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../machinery" beforeDir="false" afterPath="$PROJECT_DIR$/../machinery" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../phone" beforeDir="false" afterPath="$PROJECT_DIR$/../phone" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../post_service" beforeDir="false" afterPath="$PROJECT_DIR$/../post_service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/ContactList.go" beforeDir="false" afterPath="$PROJECT_DIR$/../test/ContactList.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/ContactList_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../test/ContactList_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/LeetCode/FibonacciNumber.go" beforeDir="false" afterPath="$PROJECT_DIR$/../test/LeetCode/FibonacciNumber.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/LeetCode/LastWord.go" beforeDir="false" afterPath="$PROJECT_DIR$/../test/LeetCode/LastWord.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/LeetCode/PalindromNumber.go" beforeDir="false" afterPath="$PROJECT_DIR$/../test/LeetCode/PalindromNumber.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/LeetCode/RemoveDuplicates.go" beforeDir="false" afterPath="$PROJECT_DIR$/../test/LeetCode/RemoveDuplicates.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/LeetCode/RemoveElement.go" beforeDir="false" afterPath="$PROJECT_DIR$/../test/LeetCode/RemoveElement.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/LeetCode/ReverseVowels.go" beforeDir="false" afterPath="$PROJECT_DIR$/../test/LeetCode/ReverseVowels.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/LeetCode/maxSubArray.go" beforeDir="false" afterPath="$PROJECT_DIR$/../test/LeetCode/maxSubArray.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/LeetCode/myPow.go" beforeDir="false" afterPath="$PROJECT_DIR$/../test/LeetCode/myPow.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../test/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/maps/map_struct.go" beforeDir="false" afterPath="$PROJECT_DIR$/../test/maps/map_struct.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/sqr.go" beforeDir="false" afterPath="$PROJECT_DIR$/../test/sqr.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/sqr_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../test/sqr_test.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1q69EufZa3QkUJHu5goIfesziz1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="444" y="154" key="FileChooserDialogImpl" timestamp="1616432337442">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="444" y="154" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1616432337442" />
+    <state x="346" y="89" key="search.everywhere.popup" timestamp="1616389095256">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1616389095256" />
+  </component>
+</project>
